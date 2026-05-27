@@ -4,7 +4,7 @@ Landing page inspirada na Fanta desenvolvida para praticar HTML, CSS e JavaScrip
 
 ## Tecnologias utilizadas
 
-- HTML5
+- HTML
 - CSS
 - JavaScript
 
