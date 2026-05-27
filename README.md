@@ -2,31 +2,25 @@
 
 Landing page inspirada na Fanta desenvolvida para praticar HTML, CSS e JavaScript.
 
+O projeto conta com efeitos visuais e animações interativas acionadas durante o scroll da página, proporcionando uma experiência mais dinâmica ao navegar pelo site.
+
 ## Tecnologias utilizadas
 
 - HTML
 - CSS
 - JavaScript
 
-
-
 ## Primeira Tela
 
 <img src="./preview/Primeira Tela.png" alt="Primeira Tela" width="800">
-
-
 
 ## Segunda Tela
 
 <img src="./preview/Segunda Tela.png" alt="Segunda Tela" width="800">
 
-
-
 ## Terceira Tela
 
 <img src="./preview/Terceira Tela.png" alt="Terceira Tela" width="800">
-
-
 
 ## Como executar
 
